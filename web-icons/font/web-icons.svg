@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="web-icons" horiz-adv-x="1000" >
+<font-face font-family="web-icons" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="mail" unicode="&#xe800;" d="M467 366l-449 210 0 109 893 0 0-109z m0-123l444 210 0-437-893 0 0 438z" horiz-adv-x="928" />
+
+<glyph glyph-name="home" unicode="&#xe801;" d="M786 296v-267q0-15-11-25t-25-11h-214v214h-143v-214h-214q-15 0-25 11t-11 25v267q0 1 0 2t0 2l321 264 321-264q1-1 1-4z m124 39l-34-41q-5-5-12-6h-2q-7 0-12 3l-386 322-386-322q-7-4-13-3-7 1-12 6l-35 41q-4 6-3 13t6 12l401 334q18 15 42 15t43-15l136-113v108q0 8 5 13t13 5h107q8 0 13-5t5-13v-227l122-102q6-4 6-12t-4-13z" horiz-adv-x="928.6" />
+
+<glyph glyph-name="users" unicode="&#xe802;" d="M860 533q0-108-77-184t-184-76-184 76-76 184 76 183 184 77 184-77 77-183z m286-183q0-54-38-92t-93-38-92 38-38 92 38 92 92 38 93-38 38-92z m-131-161q80 0 131-34t52-79q0-22-53-40t-130-17q-42 0-82 6 0-2 0-7t1-7q0-41-96-72t-239-32q-150 0-242 32t-92 72q0 3 1 8t0 7q-50-7-83-7-82 0-132 17t-51 40q0 45 50 79t133 34q98 0 151-50 99 81 265 81t265-81q52 50 151 50z m-702 161q0-54-38-92t-92-38-93 38-37 92 37 92 93 38q53 0 91-38t39-92z" horiz-adv-x="1198" />
+
+<glyph glyph-name="group" unicode="&#xe803;" d="M0 106l0 134q0 26 18 32l171 80q-66 39-68 131 0 56 35 103 37 41 90 43 31 0 63-19-49-125 23-237-12-11-25-19l-114-55q-48-23-52-84l0-143-114 0q-25 0-27 34z m193-59l0 168q0 27 22 37l152 70 57 28q-37 23-60 66t-22 94q0 76 46 130t110 54 109-54 45-130q0-105-78-158l61-30 146-70q24-10 24-37l0-168q-2-37-37-41l-541 0q-14 2-24 14t-10 27z m473 330q68 106 22 231 31 19 66 21 49 0 90-43 35-41 35-103 0-82-65-131l168-80q18-10 18-32l0-134q0-32-27-34l-118 0 0 143q0 57-50 84l-110 53q-15 8-29 25z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
